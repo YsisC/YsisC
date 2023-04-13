@@ -55,3 +55,4 @@ You can click the Preview link to take a look at your changes.
 
 </details>
 
+angular angularjs babel bootstrap css3 figma git html5 javascript jest nodejs typescript
