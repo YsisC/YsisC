@@ -33,8 +33,9 @@ You can click the Preview link to take a look at your changes.
 
 </br></br>
 	
-## 🐍 A Snake Eating my Contributions Graph
+## 🐍 Adivina mi numero
 	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<p align = "center"><a href="https://guesmynumbergame.netlify.app/">
+	Adivina el numero
+	</>
 </p>
