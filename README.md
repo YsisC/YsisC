@@ -54,6 +54,6 @@ You can click the Preview link to take a look at your changes.
 <div>
 
 </details>
+<details><summary><h3> :open_file_folder:Languages and Tools:</h3></summary>
 
-## Languages and Tools:
-
+</details>
