@@ -13,6 +13,13 @@ You can click the Preview link to take a look at your changes.
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
 </br></br>
+## 🚀 Card validation
+	
+<p align = "center"><a href="https://guesmynumbergame.netlify.app/](https://github.com/YsisC/DEV003-card-validation">
+	Validacion de tarjeta
+	</>
+</p>
+	
 	
 ## 🚀 Guess my number a game
 	
