@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 </br></br>
 ## 🚀 Card validation
 	
-<p align = "center"><a href="https://guesmynumbergame.netlify.app/](https://github.com/YsisC/DEV003-card-validation">
+<p align = "center"><a href="https://github.com/YsisC/DEV003-card-validation">
 	Validacion de tarjeta
 	</>
 </p>
