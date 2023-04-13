@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ## 🚀 Burguer Queen
 	
 <p align = "center"><a href="https://github.com/YsisC/DEV003-burger-queen-api-client">
-### Burguer queen - API CLIENT
+	Burguer queen - API CLIENT
 	</>
 </p>
 
