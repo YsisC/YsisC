@@ -16,18 +16,18 @@ You can click the Preview link to take a look at your changes.
 ## 🚀 Burguer Queen
 	
 <p align = "center"><a href="https://github.com/YsisC/DEV003-burger-queen-api-client">
-	Burger queen - API CLIENT
+## Burger queen - API CLIENT
 	</>
 </p>
 
-	## 🚀 Md-links
+## 🚀 Md-links
 	
 <p align = "center"><a href="https://github.com/YsisC/DEV003-md-links">
 	Library md.links(NPM)
 	</>
 </p>
 	
-	## 🚀Social Network
+## 🚀Social Network
 	
 <p align = "center"><a href="https://github.com/YsisC/DEV003-md-links">
 	Social Network - Red social
@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-	## 🚀 Card validation
+## 🚀 Card validation
 	
 <p align = "center"><a href="https://github.com/YsisC/DEV003-card-validation">
 	Card Validation (Javascript)
