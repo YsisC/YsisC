@@ -13,10 +13,32 @@ You can click the Preview link to take a look at your changes.
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
 </br></br>
-## 🚀 Card validation
+## 🚀 Burguer Queen
+	
+<p align = "center"><a href="https://github.com/YsisC/DEV003-burger-queen-api-client">
+	Burger queen - API CLIENT
+	</>
+</p>
+
+	## 🚀 Md-links
+	
+<p align = "center"><a href="https://github.com/YsisC/DEV003-md-links">
+	Library md.links(NPM)
+	</>
+</p>
+	
+	## 🚀Social Network
+	
+<p align = "center"><a href="https://github.com/YsisC/DEV003-md-links">
+	Social Network - Red social
+	</>
+</p>
+
+
+	## 🚀 Card validation
 	
 <p align = "center"><a href="https://github.com/YsisC/DEV003-card-validation">
-	Validacion de tarjeta
+	Card Validation (Javascript)
 	</>
 </p>
 	
@@ -24,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 ## 🚀 Guess my number a game
 	
 <p align = "center"><a href="https://guesmynumbergame.netlify.app/">
-	Adivina el numero
+	Gues my number (Javascript)
 	</>
 </p>
 
