@@ -55,5 +55,7 @@ You can click the Preview link to take a look at your changes.
 
 </details>
 <details><summary><h3> :open_file_folder:Languages and Tools:</h3></summary>
-
+[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
+[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 </details>
