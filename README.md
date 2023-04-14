@@ -32,6 +32,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 	
 ## 🚀Social Network
+
+[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 	
 <p align = "center"><a href="https://github.com/YsisC/DEV003-md-links">
 	Social Network - Red social
