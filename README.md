@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 </br></br>
 ## 🚀 Burguer Queen
-	
+[![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 <p align = "center"><a href="https://github.com/YsisC/DEV003-burger-queen-api-client">
 	Burguer queen - API CLIENT
 	</>
