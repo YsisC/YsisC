@@ -1,7 +1,7 @@
-### Hi, I’m @YsisC 👋
+## Hi, I’m @YsisC 👋
 #### Developer junior  💻 currently looking for work♨️
 
-- 👋 
+
 - 👀 I’m interested in Programation.
 - 🌱 I’m currently learning Angular.
 - 💞️ I’m looking to collaborate on a company that allows me to learn more and contribute to my acquired knowledge.
