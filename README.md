@@ -24,7 +24,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ## 🚀 Md-links
-	
+
+[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 <p align = "center"><a href="https://github.com/YsisC/DEV003-md-links">
 	Library md.links(NPM)
 	</>
@@ -39,7 +40,8 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 🚀 Card validation
-	
+
+[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 <p align = "center"><a href="https://github.com/YsisC/DEV003-card-validation">
 	Card Validation (Javascript)
 	</>
@@ -47,6 +49,8 @@ You can click the Preview link to take a look at your changes.
 	
 	
 ## 🚀 Guess my number a game
+
+[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 	
 <p align = "center"><a href="https://guesmynumbergame.netlify.app/">
 	Gues my number (Javascript)
