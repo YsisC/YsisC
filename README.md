@@ -7,6 +7,17 @@
 - 💞️ I’m looking to collaborate on a company that allows me to learn more and contribute to my acquired knowledge.
 - 🌟 I speak spanish, and i'm learning english.
 - 📺 I'm studying front-end in laboratoria.
+- - 🔭 I’m currently working on [BURGUER-QUEEN](https://github.com/YsisC/DEV003-burger-queen-api-client)
+
+- 🌱 I’m currently learning **Angular and typescript**
+
+- 👨‍💻 All of my projects are available at [https://github.com/YsisC?tab=repositories](https://github.com/YsisC?tab=repositories)
+
+- 💬 Ask me about **Javascript, node.js, firebase, HTML, Test Unit**
+
+- 📫 How to reach me **ysisclongart@gmail.com**
+
+- ⚡ Fun fact **I think I am a cheff**
 
 <!---
 YsisC/YsisC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
