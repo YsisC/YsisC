@@ -16,7 +16,7 @@
 
 -  🔭 I’m currently working on [BURGUER-QUEEN](https://github.com/YsisC/DEV003-burger-queen-api-client)
 
-- 💬 Ask me about **Javascript, node.js, firebase, HTML, Test Unit**
+- 💬 Ask me about **Javascript, node.js, firebase, Angular, typescript, bootstrap, SAAS HTML, Test Unit**
 
 - 📫 How to reach me **ysisclongart@gmail.com**
 
@@ -95,18 +95,5 @@
 </p>
 
 	
-<div>
-
-</details>
-<details><summary><h3> :open_file_folder:Languages and Tools:</h3></summary>
-	
 
 
-[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
-[![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
-[![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
-[![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
-[![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://https://npmjs.com/)
-
-</details>
