@@ -11,7 +11,7 @@
 - 💞️ I’m looking to collaborate on a company that allows me to learn more and contribute to my acquired knowledge.
 
 - 🌟 I speak spanish, and i'm learning english.
--
+
 - 📺 I'm studying front-end in laboratoria.
 
 -  🔭 I’m currently working on [BURGUER-QUEEN](https://github.com/YsisC/DEV003-burger-queen-api-client)
@@ -21,11 +21,6 @@
 - 📫 How to reach me **ysisclongart@gmail.com**
 
 - ⚡ Fun fact **I think I am a cheff**
-
-<!---
-YsisC/YsisC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
 <h3 align="left">Connect with me:</h3>
