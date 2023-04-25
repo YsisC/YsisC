@@ -34,7 +34,6 @@
 
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
-</br></br>
 ## 🚀 Burguer Queen
 [![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
