@@ -3,13 +3,13 @@
 <h3 align="center">A passionate frontend developer from Chile</h3>
 
 - 👀 I’m interested in Programation.
-- 🌱 I’m currently learning **Next and Material UI**
+- 🌱 I’m currently learning **Next, MongoDB, Docker and Material UI**
 - 👨‍💻 All of my projects are available at [https://github.com/YsisC?tab=repositories](https://github.com/YsisC?tab=repositories)
 - 💞️ I’m looking to collaborate on a company that allows me to learn more and contribute to my acquired knowledge.
 - 🌟 I speak spanish, and i'm learning english.
 - 📺 I'm studying front-end in laboratoria.
--  🔭 I’m currently working on [Ecommerce](https://github.com/YsisC/ecommerce))
-- 💬 Ask me about **Javascript, node.js, firebase, Angular, React, typescript, bootstrap, Tailwind, SAAS HTML, Test Unit**
+-  🔭 I’m currently working on [Ecommerce](https://github.com/YsisC/ecommerce)
+- 💬 Ask me about **Javascript, node.js, firebase, Angular, React, typescript, bootstrap, Tailwind, SAAS HTML, Test Unit, MongoDb, Docker**
 - 📫 How to reach me **ysisclongart@gmail.com**
 - ⚡ Fun fact **I think I am a cheff**
 
