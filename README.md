@@ -9,7 +9,7 @@
 
 
 - 👀 I’m interested in Programation.
-- 🌱 I’m currently learning **Next, MongoDB, Docker and Material UI**
+- 🌱 I’m currently learning  **AWS** and practicing **Next, Material, Redux, TypeScript**
 - 👨‍💻 All of my projects are available at [https://github.com/YsisC?tab=repositories](https://github.com/YsisC?tab=repositories)
 - 💞️ I’m looking to collaborate on a company that allows me to learn more and contribute to my acquired knowledge.
 - 🌟 I speak spanish, and i'm learning english.
