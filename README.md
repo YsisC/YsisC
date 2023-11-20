@@ -14,7 +14,7 @@
 - 💞️ I’m looking to collaborate on a company that allows me to learn more and contribute to my acquired knowledge.
 - 🌟 I speak spanish, and i'm learning english.
 - 📺 I'm studying testing and AWS.
--  🔭 I’m currently working on [Pepireyes](https://pepireyes-cl.vercel.app/)
+[-  🔭 I’m currently working on <a href="https://pepireyes-cl.vercel.app/" target="_blank">Pepireyes</a>
 - 💬 Ask me about **Javascript, node.js, firebase, Angular, React, typescript, bootstrap, Tailwind, SAAS HTML, Test Unit, MongoDb, Docker**
 - 📫 How to reach me **ysisclongart@gmail.com**
 - ⚡ Fun fact **I think I am a cheff**
