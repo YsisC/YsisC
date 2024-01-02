@@ -42,11 +42,11 @@
       <br/>
     <details open>
   <summary><h3>Languages</h3></summary>
-            <p align="center">
+        
        
         ![YsisC's Stats](https://github-readme-stats.vercel.app/api?username=YsisC&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
     
-      </p>
+
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
