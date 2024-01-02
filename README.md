@@ -44,8 +44,8 @@
   <summary><h3>Languages</h3></summary>
         
        
-        ![YsisC's Stats](https://github-readme-stats.vercel.app/api?username=YsisC&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-    
+        <img width="45%" "src=https://github-readme-stats.vercel.app/api?username=YsisC&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" 
+       alt="1999AZZAR :: Top Langs by repo" />
 
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
